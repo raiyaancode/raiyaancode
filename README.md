@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raiyaancode
 - 👀 I’m interested in ...sofware engineering
-- 🌱 I’m currently learning ...javasript
+- 🌱 I’m currently learning ...idk
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...nowhere
 
